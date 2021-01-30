@@ -7,6 +7,22 @@
 ### Dane Vestal- D1935827V https://github.com/D1935827V
 ### Carter
 
+# Tickets for second half of the Trimester
+### Database:
+#### With the database we are making a functional sign up page which the information is going to be on a sql database. 
+#### The database is going to store the information for the usernames, passwords, and emails of the users.
+#### After you complete the signing up you will be able to use that information to login to our website
+
+### Easter Egg:
+#### We are going to have a secret page hidden in our website.
+#### To find this Easter Egg you have to click on a certain image in our website.
+#### This is going to go to a secret game of snake.
+
+### UI update:
+#### We are going to do a whole UI re work because pf the many flaws our previous website had
+#### The different pages are going to be changed to make the website look cleaner with a white background and better formating.
+#### This will help make our web api look better and also our the sign up page better.
+
 # Goals Completed 1/11 - 1/15:
 ### https://docs.google.com/document/d/1cOyYSBV-tAxc750rJwrvrvdzZGZPljRu9YTWr9MPd1E/edit document for in depth ticket items
 ### Webscrape:
